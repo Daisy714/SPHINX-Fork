@@ -14,7 +14,7 @@ Community
     :summary:
         ...
 
-.. tags:: community
+.. tags:: Community
 
 .. contributors::
     :location: Palisades, NY
