@@ -2,19 +2,19 @@
 .. Created on: Saturday, November 02, 2024
 .. Last updated on: Monday, November 25, 2024
 
-:og:title: Climate Module Introduction
+:og:title: Community Introduction
 :og:description: ...
 
 ===============================================================================
-Climate
+Community
 ===============================================================================
 
 .. title-hero::
-    :icon: fa-solid fa-temperature-half
+    :icon: fa-solid fa-wind
     :summary:
         ...
 
-.. tags:: climate
+.. tags:: community
 
 .. contributors::
     :location: Palisades, NY
@@ -25,7 +25,3 @@ Climate
     - :github: https://github.com/ciesin-geospatial
     - :youtube: https://www.youtube.com/@TOPSTSCHOOL
 
-To be updated...
-
-Don't have a `GitHub`_ account? Contact us `here <mailto:TOPSTSCHOOL@gmail.
-com>`_!
