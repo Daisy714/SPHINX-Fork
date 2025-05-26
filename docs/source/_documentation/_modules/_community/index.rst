@@ -25,3 +25,4 @@ Community
     - :github: https://github.com/ciesin-geospatial
     - :youtube: https://www.youtube.com/@TOPSTSCHOOL
 
+Welcome to the Community module of the SCHOOL curriculum!
