@@ -26,7 +26,7 @@ Climate
     - :youtube: https://www.youtube.com/@TOPSTSCHOOL
 
 
-Welcome to the fourth module of the SCHOOL curriculum!
+Welcome to the fourth module of the SCHOOL curriculum! 
 
 The Science Core Heuristics for Open Science Outcomes in Learning (SCHOOL) is part of the [NASA Transform to Open Science (TOPS)](https://nasa.github.io/Transform-to-Open-Science/) Training (TOPST) initiative, designed to teach the data science lifecycle using data from the NASA Earth Sciences division and to foster an inclusive culture of open science. You can learn more about the SCHOOL Project and other modules on the [SCHOOL Project home page.](https://ciesin-geospatial.github.io/TOPSTSCHOOL/)
 
