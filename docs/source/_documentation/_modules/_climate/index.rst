@@ -57,13 +57,7 @@ This course was made possible thanks to the work of our NASA Transform to Open S
 
 
 
-Don't have a `GitHub`_ account? Contact us `here <mailto:TOPSTSCHOOL@gmail.com>`_!
 
-
-
-
-
-
-
+Don't have a `GitHub`_ account? Contact us `here <mailto:TOPSTSCHOOL@gmail.com>`_!          
 
 
